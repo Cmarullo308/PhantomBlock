@@ -1,0 +1,11 @@
+main: CJ.PhantomBlock.main.PhantomBlock
+name: PhantomBlock
+author: CJM
+version: 1.0
+api-version: 1.14
+description: Can make a phantom block for building
+
+commands:
+   PhantomBlock:
+      usage: /PhantomBlock
+      aliases: [pb]
