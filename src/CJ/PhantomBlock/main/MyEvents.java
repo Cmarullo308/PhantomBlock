@@ -91,10 +91,12 @@ public class MyEvents implements Listener {
 		case STONE_PICKAXE:
 		case IRON_PICKAXE:
 		case DIAMOND_PICKAXE:
+		case NETHERITE_PICKAXE:
 		case WOODEN_AXE:
 		case STONE_AXE:
 		case IRON_AXE:
 		case DIAMOND_AXE:
+		case NETHERITE_AXE:
 			return true;
 		default:
 			return false;

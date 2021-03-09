@@ -1,8 +1,8 @@
 main: CJ.PhantomBlock.main.PhantomBlock
 name: PhantomBlock
 author: CJM
-version: 1.0
-api-version: 1.14
+version: 1.1
+api-version: 1.16
 description: Can make a phantom block for building
 
 commands:
